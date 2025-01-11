@@ -34,7 +34,7 @@
 
 ## 使用方法
 
-1. 选择导出格式（CSV 或 JSON）
+1. 选择导出格式（txt 或 html）
 2. 选择要导出的对话
 3. 点击 "导出" 并选择保存位置
 4. 等待导出完成
@@ -98,7 +98,7 @@ A GUI application for exporting iMessage conversations on macOS. This directory 
 
 ## How to Use
 
-1. Select export format (CSV or JSON)
+1. Select export format (txt or html)
 2. Choose conversations to export
 3. Click "Export" and select save location
 4. Wait for the export to complete
